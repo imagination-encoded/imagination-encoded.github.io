@@ -1,0 +1,87 @@
+{
+    "subject": "Anarchist utopia",
+    "prompt": "a <artist> painting of an anarchist utopia",
+    "variants": [
+        {
+            "artist": "Ilya Repin",
+            "images": [
+                { "src": "https://cdn.midjourney.com/5bb8fda3-d148-460f-9c0d-2cf118eb4ddd/0_1.webp" },
+                { "src": "https://cdn.midjourney.com/5bb8fda3-d148-460f-9c0d-2cf118eb4ddd/0_2.webp" },
+                { "src": "https://cdn.midjourney.com/733176ca-b036-478a-a3ce-1a0c4feb0e7f/0_2.webp" },
+                { "src": "https://cdn.midjourney.com/81fb506f-89a1-49b8-acbb-4f3600969708/0_0.webp" }
+            ]
+        },
+        {
+            "artist": "Ivan Bilibin",
+            "images": [
+                { "src": "https://cdn.midjourney.com/0cc8960a-9f4c-4bdd-875e-109d08479651/0_2.webp" },
+                { "src": "https://cdn.midjourney.com/85d58660-65c3-4019-909f-978707b9aa03/0_3.webp" },
+                { "src": "https://cdn.midjourney.com/6cec6b01-ebbe-4629-a34d-5fcf1ddffc52/0_2.webp" },
+                { "src": "https://cdn.midjourney.com/0cc8960a-9f4c-4bdd-875e-109d08479651/0_3.webp" }
+            ]
+        },
+        {
+            "artist": "Viktor Vasnetsov",
+            "images": [
+                { "src": "https://cdn.midjourney.com/c64ebe4b-780f-4031-b35c-02c0785399cf/0_1.webp" },
+                { "src": "https://cdn.midjourney.com/0c504437-1f35-44dd-90bd-ea6a48507778/0_0.webp" },
+                { "src": "https://cdn.midjourney.com/276e03fe-f1ed-4179-bcf9-b4957443f03e/0_3.webp" },
+                { "src": "https://cdn.midjourney.com/7b5bbe9c-9c0e-4382-8dde-31c197941507/0_0.webp" }
+            ]
+        },
+        {
+            "artist": "Ivan Shishkin",
+            "images": [
+                { "src": "https://cdn.midjourney.com/c840a0cf-73ec-446a-9a0e-e433e5130328/0_0.webp" },
+                { "src": "https://cdn.midjourney.com/494d8ccb-f303-4e44-ae91-d7ce8a60bee0/0_0.webp" },
+                { "src": "https://cdn.midjourney.com/3e35b3d9-c023-46c9-8066-b88cb9be2424/0_0.webp" },
+                { "src": "https://cdn.midjourney.com/5c7170b1-2490-44a5-98e3-82b07d2ec2f6/0_3.webp" }
+            ]
+        },
+        {
+            "artist": "Marc Chagall",
+            "images": [
+                { "src": "https://cdn.midjourney.com/dc6215be-19ef-4638-81a3-e7f83c7001c7/0_3.webp" },
+                { "src": "https://cdn.midjourney.com/d54159d4-1333-49f0-b231-d928ba610eba/0_3.webp" },
+                { "src": "https://cdn.midjourney.com/d54159d4-1333-49f0-b231-d928ba610eba/0_2.webp" },
+                { "src": "https://cdn.midjourney.com/2139b353-ac1a-442c-9f02-2471ae62e034/0_2.webp" }
+            ]
+        },
+        {
+            "artist": "Kuzma Petrov-Vodkin",
+            "images": [
+                { "src": "https://cdn.midjourney.com/41bbb424-117f-4b37-8117-c5b7fef4cc43/0_3.webp" },
+                { "src": "https://cdn.midjourney.com/43b9fc94-46a6-4954-9c73-daebe76cd5e7/0_3.webp" },
+                { "src": "https://cdn.midjourney.com/43b9fc94-46a6-4954-9c73-daebe76cd5e7/0_2.webp" },
+                { "src": "https://cdn.midjourney.com/1932285d-b146-408c-af55-87ee3e07a0c6/0_2.webp" }
+            ]
+        },
+        {
+            "artist": "Mikhail Vrubel",
+            "images": [
+                { "src": "https://cdn.midjourney.com/83710387-ccfa-4873-8b49-5930b39c8cb8/0_0.webp" },
+                { "src": "https://cdn.midjourney.com/83710387-ccfa-4873-8b49-5930b39c8cb8/0_3.webp" },
+                { "src": "https://cdn.midjourney.com/46c7ba5b-37f8-44a4-b57c-ff73c0e0198e/0_2.webp" },
+                { "src": "https://cdn.midjourney.com/8c156143-693e-433d-b2c6-41419d86076c/0_2.webp" }
+            ]
+        },
+        {
+            "artist": "Boris Kustodiev",
+            "images": [
+                { "src": "https://cdn.midjourney.com/c4bfe431-7008-47b1-ad60-7dfbcdd46e9b/0_3.webp" },
+                { "src": "https://cdn.midjourney.com/c4bfe431-7008-47b1-ad60-7dfbcdd46e9b/0_0.webp" },
+                { "src": "https://cdn.midjourney.com/78d1ef4f-f720-4041-900e-122d898121da/0_3.webp" },
+                { "src": "https://cdn.midjourney.com/78d1ef4f-f720-4041-900e-122d898121da/0_2.webp" }
+            ]
+        },
+        {
+            "artist": "Vasily Surikov",
+            "images": [
+                { "src": "https://cdn.midjourney.com/5e987e96-f7ad-48af-94de-8818ecf4624a/0_1.webp" },
+                { "src": "https://cdn.midjourney.com/5e987e96-f7ad-48af-94de-8818ecf4624a/0_3.webp" },
+                { "src": "https://cdn.midjourney.com/a4fd4fb4-bbb6-4246-832c-43e5d464114e/0_0.webp" },
+                { "src": "https://cdn.midjourney.com/091c57d2-0439-4709-8f5f-5a06678ed3a2/0_2.webp" }
+            ]
+        }
+    ]
+}
